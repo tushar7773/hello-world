@@ -1,0 +1,7 @@
+#[group1]
+#host01 ansible_ssh_user=tushar
+#[group2]
+#host02 ansible_ssh_user=tushar
+#host03 ansible_ssh_user=tushar
+[dbservers]
+127.0.0.1 ansible_ssh_user=tushar
