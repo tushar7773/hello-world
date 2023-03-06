@@ -1,0 +1,14 @@
+db01 - 172.31.35.4
+mc01 - 172.31.44.17
+rmq01 - 172.31.47.176
+
+550+ 
+14
+4240/6
+
+
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
+
+s3://tprofile-artifact-storage
+
